@@ -5,12 +5,13 @@ You can use different styles like: **bold**, *italic,*
 You can also add [links](http://google.com)
   
 You can add some code:  
-` print("Hello World!!")`  
+` print("Hello World!!")`
 
 You can write a list:
 - Bread
 - Milk
 - ~~Oreos~~
+
 
 You can also add some tasks:
 - [x] Write a readme
@@ -18,5 +19,7 @@ You can also add some tasks:
 - [ ] Profit
 
 [More on how to write readmes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
- 
+
 :sparkles: :sparkles: :sparkles: :sparkles:
+
+![no picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqCanghHwfhU1sqMZeKECiGjoYzifnvvuoA&usqp=CAU)
